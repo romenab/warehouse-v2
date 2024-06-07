@@ -1,0 +1,26 @@
+[
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "636841c2-5db4-4d49-964a-8bd84cdfb63e",
+        "name": "water",
+        "units": 10,
+        "updatedAt": "2024-06-07 17:33:44"
+    },
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "e2267deb-45e5-460f-bdb9-db718e909b1e",
+        "name": "sprite",
+        "units": 5,
+        "updatedAt": "2024-06-07 17:33:57"
+    },
+    {
+        "username": "1",
+        "action": "Added",
+        "id": "5e35faf6-a60b-4830-a4db-fdf208c623bb",
+        "name": "cola",
+        "units": 3456,
+        "updatedAt": "2024-06-07 17:34:29"
+    }
+]

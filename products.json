@@ -1,0 +1,29 @@
+[
+    {
+        "id": "636841c2-5db4-4d49-964a-8bd84cdfb63e",
+        "name": "water",
+        "price": 1250,
+        "createdAt": "2024-06-07 17:33:44",
+        "updatedAt": "2024-06-07 17:33:44",
+        "units": 10,
+        "expiredAt": null
+    },
+    {
+        "id": "e2267deb-45e5-460f-bdb9-db718e909b1e",
+        "name": "sprite",
+        "price": 200,
+        "createdAt": "2024-06-07 17:33:57",
+        "updatedAt": "2024-06-07 17:33:57",
+        "units": 5,
+        "expiredAt": null
+    },
+    {
+        "id": "5e35faf6-a60b-4830-a4db-fdf208c623bb",
+        "name": "cola",
+        "price": 400,
+        "createdAt": "2024-06-07 17:34:29",
+        "updatedAt": "2024-06-07 17:34:29",
+        "units": 3456,
+        "expiredAt": null
+    }
+]
